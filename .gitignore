@@ -1,0 +1,16 @@
+# Python virtual environment
+tweetgenerator/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# SSH keys and sensitive files
+divyamgit*
+.env
+
+# Logs and temp output
+structure.txt
+test_results_*.json

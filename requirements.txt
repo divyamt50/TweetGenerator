@@ -1,0 +1,7 @@
+requests
+tweepy
+schedule
+pandas
+python-dotenv
+beautifulsoup4
+google-generativeai
